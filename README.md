@@ -10,3 +10,5 @@ Run the *01_setup_wsl.ps1* in Powershell as an administrator.
 Then type *WSL* to enter Windows Subsystem CLI and execute the *02_install_ansible.sh*
 
 For more information visit my blog on https://www.thomaspreischl.de
+# This is it!
+# mydemorepo
